@@ -1,2 +1,2 @@
 # new project 
-created by satendra kumar
+created by satendra kumar.
